@@ -3,7 +3,7 @@
 ### Hello world ฅ^•ﻌ•^ฅ
 I'm Louison, and here I will show you what I've learnt this week about creative computing!
 
-Before being introduced to the concept and diving into its basics, I was slightly iffy about anything concerning computing. Coding and all that complicated stuff (;╹⌓╹) *"...yeah **no** thanks, **not** for me"*. I remained open-minded, played around with physical computing and completed the Arduino kit with ease w the lovely @alfdingus as a teammate! ᕦ(•̀_•́)ᕤ
+Before being introduced to the concept and diving into its basics, I was slightly iffy about anything concerning computing. Coding and all that complicated stuff (;╹⌓╹) *"...yeah **no** thanks, **not** for me"*. I remained open-minded, played around with physical computing and completed the Arduino kit with ease w the lovely @alfdingus (Amal) as a teammate! ᕦ(•̀_•́)ᕤ
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/94980557/143285307-ebab1112-4020-4121-a15c-7719fa753033.jpg" width="300" />
